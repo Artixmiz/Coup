@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\bin\Debug\ConsoleCouptest.exe.config
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\bin\Debug\ConsoleCouptest.exe
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\bin\Debug\ConsoleCouptest.pdb
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\obj\Debug\ConsoleCoup.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\obj\Debug\ConsoleCoup.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\obj\Debug\ConsoleCouptest.exe
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\obj\Debug\ConsoleCouptest.pdb
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\bin\Debug\CoupCardDeak.dll
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\bin\Debug\CoupCardDeak.pdb
+C:\Users\ASUS\source\repos\ConsoleCouptest\ConsoleCouptest\obj\Debug\ConsoleCoup.csproj.CopyComplete
