@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\ConsoleCouptest\CoupCardDeak\bin\Debug\CoupCardDeak.dll
+C:\Users\ASUS\source\repos\ConsoleCouptest\CoupCardDeak\bin\Debug\CoupCardDeak.pdb
+C:\Users\ASUS\source\repos\ConsoleCouptest\CoupCardDeak\obj\Debug\CoupCardDeak.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleCouptest\CoupCardDeak\obj\Debug\CoupCardDeak.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleCouptest\CoupCardDeak\obj\Debug\CoupCardDeak.dll
+C:\Users\ASUS\source\repos\ConsoleCouptest\CoupCardDeak\obj\Debug\CoupCardDeak.pdb
